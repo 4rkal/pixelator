@@ -5,5 +5,5 @@ Set up:
 
 2)Save desired image as main.png
 
-3)``python main.py``
+3)``python pixelator.py``
 
